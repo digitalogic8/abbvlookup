@@ -1,0 +1,4 @@
+-ability to see if code is available
+-order information
+-signup for account
+-purchase code
